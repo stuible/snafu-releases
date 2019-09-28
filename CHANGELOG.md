@@ -15,3 +15,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Removed
 - Removed Something
+
+
+## Process 
+Empty Git commits are added using:
+```bash
+git commit --allow-empty -m "Release v0.1.0-beta"
+```
+And then tagged as releases using GitHub releases.
