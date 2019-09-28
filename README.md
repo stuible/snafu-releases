@@ -2,7 +2,9 @@
 A cross platform image databending tool.
 
 ## About This Repo
-This repo is used to host the public changelog, release information, and prebuilt binaries for Snafu.
+This repo is used to host the public changelog, release information, and prebuilt binaries for Snafu.  
+
+https://snafu.fun uses this repo to populate it's download links and changelogs.
 
 ## Process 
 Empty Git commits are added using:
